@@ -1,6 +1,6 @@
 # 🧠 ARC Challenge Africa: Abstraction & Reasoning with Logic-Based AI
 
-Welcome to my solution for the [Zindi ARC Challenge Africa](https://zindi.africa/competitions/the-arc-challenge-africa) — a competition inspired by the ARC-AGI benchmark that tests **true reasoning** over traditional training. This repo contains the exact pipeline that earned me a **Top 5 finish** 🏅!
+Welcome to my solution for the [Zindi ARC Challenge Africa](https://zindi.africa/competitions/the-arc-challenge-africa) — a competition inspired by the ARC-AGI benchmark that tests **true reasoning** over traditional training. This repo contains the exact pipeline that earned me a **5th place finish** 🏅!
 
 ---
 
@@ -11,7 +11,7 @@ Welcome to my solution for the [Zindi ARC Challenge Africa](https://zindi.africa
 ├── ARC_Solution.ipynb          ← My final logic-based solution notebook
 ├── train.json                  ← Training tasks (input/output pairs)
 ├── test.json                   ← Test tasks to predict
-├── arc_agi_final_submission.csv ← My submission file (ready to upload)
+├── SampleSubmission.csv        ← Submission format to resemble
 ├── requirements.txt            ← Required libraries
 ├── README.md                   ← This file!
 ```
@@ -59,19 +59,18 @@ This helped quickly debug and iterate logic.
 
 | Metric        | Value                  |
 |---------------|------------------------|
-| 🏆 Rank        | Top 5                  |
-| 📊 F1 Score    | High (unofficial)      |
-| ⏱️ Inference   | ~30 seconds for all tasks |
+| 🏆 Rank        | 5th                  |
+| 📊 F1 Score    | 0.33      |
+| ⏱️ Inference   | ~10 seconds for all tasks |
 | 🤖 Model Used  | Rule-based logic only  |
 
 ---
-
+https://github.com/keystats/ARC-CHALLENGE-AFRICA.git
 ## ⚙️ How to Run
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ARC-Challenge-Africa.git
-   cd ARC-Challenge-Africa
+   git clone https://github.com/KEYSTATS/ARC-CHALLENGE-AFRICA.git
    ```
 
 2. Install dependencies:
