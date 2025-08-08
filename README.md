@@ -112,7 +112,7 @@ This helped quickly debug and iterate logic.
 ## 👨‍💻 Author
 
 **Jackson Kahungu Njeri**  
-Data Scientist | Top 5 Finalist  
+Data Scientist | 5th Place Finalist  
 🔗 [Zindi Profile](https://zindi.africa/users/keystats)
 
 ---
