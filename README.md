@@ -65,7 +65,6 @@ This helped quickly debug and iterate logic.
 | 🤖 Model Used  | Rule-based logic only  |
 
 ---
-https://github.com/keystats/ARC-CHALLENGE-AFRICA.git
 ## ⚙️ How to Run
 
 1. Clone this repository:
